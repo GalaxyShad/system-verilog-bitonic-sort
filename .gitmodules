@@ -1,0 +1,3 @@
+[submodule "activecore"]
+	path = activecore
+	url = https://github.com/AntonovAlexander/activecore
